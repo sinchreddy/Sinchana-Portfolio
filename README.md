@@ -1,6 +1,6 @@
 # Sinchana Nandheesha — Portfolio
 
-## 1. Project Title + Tagline
+## 1. Project
 
 **Personal Portfolio Website — React + Vite + Tailwind CSS**  
 A modern, responsive developer portfolio showcasing projects, skills, and experience with smooth UI and animations.
