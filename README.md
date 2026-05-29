@@ -78,4 +78,4 @@ npm run dev
 
 ## 8. Live Demo
 
-🔗 https://sinchana-portfolio-seven.vercel.app
+🔗 https://sinchana-nandheesha-portfolio.vercel.app
