@@ -1,9 +1,19 @@
 # Sinchana Nandheesha — Portfolio
 
-A premium, modern personal portfolio website for a Computer Science Engineer.  
-Built with React + Vite, Tailwind CSS v3, and Framer Motion.
+## 1. Project Title + Tagline
 
-## Features
+**Personal Portfolio Website — React + Vite + Tailwind CSS**  
+A modern, responsive developer portfolio showcasing projects, skills, and experience with smooth UI and animations.
+
+
+## 2. About
+
+I am a Computer Science graduate passionate about software development, web technologies, and building real-world applications. I enjoy creating clean, user-friendly interfaces and continuously learning modern tools and frameworks.
+
+This project is my personal portfolio website built to showcase my skills, projects, and experiences in a structured and visually appealing way. It serves as a central place for recruiters and collaborators to learn more about my work.
+
+
+## 3. Features
 
 - Dark / Light mode toggle
 - Smooth animations (Framer Motion)
@@ -14,7 +24,21 @@ Built with React + Vite, Tailwind CSS v3, and Framer Motion.
 - Animated experience timeline
 - SEO-friendly meta tags
 
-## Folder Structure
+
+## 4. Tech Stack
+
+| Technology | Purpose |
+|------------|--------|
+| React 18 + Vite | Frontend framework & fast build tool |
+| Tailwind CSS 3 | Utility-first styling |
+| Framer Motion | Smooth animations & transitions |
+| Lucide React | Icon library |
+| EmailJS | Handles contact form email functionality |
+| Vercel | Deployment & hosting |
+| Syne + DM Sans + JetBrains Mono | Typography system (headings, body, code) |
+
+
+## 5. Folder Structure
 
 ```
 sinchana-portfolio/
@@ -26,7 +50,7 @@ sinchana-portfolio/
 │   │   │                      # Contact, Footer
 │   │   └── ui/                # NavBar, SectionWrapper, SocialIcons, ThemeToggle
 │   ├── data/
-│   │   └── portfolio.js       ← Edit ALL content here
+│   │   └── portfolio.js      
 │   ├── App.jsx
 │   ├── index.css
 │   └── main.jsx
@@ -35,7 +59,8 @@ sinchana-portfolio/
 └── package.json
 ```
 
-## Installation
+
+## 6. Installation
 
 ```bash
 # Clone
@@ -50,41 +75,7 @@ npm run dev
 # Open http://localhost:5173
 ```
 
-## Build
 
-```bash
-npm run build    # outputs to dist/
-npm run preview  # preview production build locally
-```
+## 8. Live Demo
 
-## Deploy to Vercel
-
-**Option A — Dashboard (easiest)**
-1. Push to GitHub
-2. Import at vercel.com → "Add New Project"
-3. Vite is auto-detected — click Deploy
-
-**Option B — CLI**
-```bash
-npm install -g vercel
-vercel
-```
-
-## Customization
-
-Edit `src/data/portfolio.js` to update all content:
-personal info, education, skills, experience, projects, research, certifications.
-
-To add a profile image, add an `<img>` tag in `src/components/sections/Hero.jsx`.
-
-## Tech Stack
-
-| | |
-|---|---|
-| React 18 + Vite | Framework & build |
-| Tailwind CSS 3 | Styling |
-| Framer Motion | Animations |
-| Lucide React | Icons |
-| Syne + DM Sans + JetBrains Mono | Typography |
-
-MIT License
+🔗 https://sinchana-portfolio-seven.vercel.app
