@@ -107,8 +107,7 @@ export const projects = [
     tech: ["Kotlin", "Jetpack Compose", "Firebase"],
     category: "Mobile",
     featured: true,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/sinchreddy/Santhe-Connect",
     color: "brand",
   },
   {
@@ -119,7 +118,6 @@ export const projects = [
     category: "AI / Mobile",
     featured: true,
     github: "#",
-    demo: "#",
     color: "accent",
   },
   {
@@ -130,7 +128,6 @@ export const projects = [
     category: "Web",
     featured: true,
     github: "#",
-    demo: "#",
     color: "emerald",
   },
   {
@@ -139,17 +136,16 @@ export const projects = [
     tech: ["Python", "Flask", "HTML", "CSS", "JavaScript", "APIs"],
     category: "Full stack",
     featured: true,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/sinchreddy/VerifyEd",
     color: "brand",
   },
   {
     title: "Order Placement System",
     description: "A web-based symptom analysis system that helps users identify possible diseases based on symptoms and connects them to relevant medical departments through an intuitive search interface.",
     tech: ["Java", "SQL"],
-    category: "",
+    category: "Full stack",
     featured: false,
-    github: "#",
+    github: "https://github.com/sinchreddy/Order-Placement-System",
     color: "accent",
   },
   {
@@ -159,7 +155,6 @@ export const projects = [
     category: "Full Stack",
     featured: false,
     github: "#",
-    demo: "#",
     color: "emerald",
   },
   {
@@ -168,8 +163,7 @@ export const projects = [
     tech: ["Python", "Flask", "MySQL", "HTML", "CSS"],
     category: "AI / Web",
     featured: false,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/sinchreddy/Symptom-Analyzer",
     color: "brand",
   },
   {
@@ -178,8 +172,7 @@ export const projects = [
     tech: ["Flask", "HTML", "CSS", "UART"],
     category: "IoT / Web",
     featured: false,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/sinchreddy/RGB-CONTROLLER",
     color: "accent",
   },
   {
@@ -188,8 +181,7 @@ export const projects = [
     tech: ["HTML", "CSS"],
     category: "Web",
     featured: false,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/sinchreddy/nandishwara-nursery-website",
     color: "emerald",
   },
 ];

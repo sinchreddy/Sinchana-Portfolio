@@ -84,7 +84,7 @@ function ProjectModal({ project, onClose }) {
             <Github size={15} />
             GitHub
           </a>
-          <a
+          {/* <a
             href={project.demo}
             target="_blank"
             rel="noreferrer"
@@ -92,7 +92,7 @@ function ProjectModal({ project, onClose }) {
           >
             <ExternalLink size={15} />
             Live Demo
-          </a>
+          </a> */}
         </div>
       </motion.div>
     </motion.div>
